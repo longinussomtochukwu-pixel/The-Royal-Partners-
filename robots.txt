@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://the-royal-partners-rmjh.vercel.app/sitemap.xml
